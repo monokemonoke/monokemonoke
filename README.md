@@ -22,5 +22,5 @@ Hi, I'm a university student majoring in Information Science.
 
 [![My Skills](https://skillicons.dev/icons?i=go,typescript,js,vue,react,python)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monokemonoke)](https://github.com/monokemonoke/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monokemonoke&layout=compact)](https://github.com/monokemonoke/github-readme-stats)
 [![monokemonoke's GitHub stats](https://github-readme-stats.vercel.app/api?username=monokemonoke)](https://github.com/monokemonoke/github-readme-stats)
