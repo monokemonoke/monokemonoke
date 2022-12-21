@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--- ### Hi there 👋 -->
 
 <!--
 **monokemonoke/monokemonoke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🌕 About monokemonoke
+Hi, I'm a university student majoring in Information Science.
+
+### 🌱 my skills
+
+[![My Skills](https://skillicons.dev/icons?i=go,typescript,js,vue,react,python)](https://skillicons.dev)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monokemonoke)](https://github.com/monokemonoke/github-readme-stats)
+[![monokemonoke's GitHub stats](https://github-readme-stats.vercel.app/api?username=monokemonoke)](https://github.com/monokemonoke/github-readme-stats)
