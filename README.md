@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🌕 About monokemonoke
-Hi, I'm a university student majoring in Information Science.
-
 ### 🌱 my skills
 
 [![My Skills](https://skillicons.dev/icons?i=go,typescript,js,vue,react,python)](https://skillicons.dev)
